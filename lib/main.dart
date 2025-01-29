@@ -9,6 +9,7 @@ import 'package:tv_artinokta/core/init/startup_manager.dart';
 import 'package:tv_artinokta/feature/dashboard/view/page/dashboard_page.dart';
 
 void main() async {
+
   await StartupManager.initialize();
 
   runApp(
