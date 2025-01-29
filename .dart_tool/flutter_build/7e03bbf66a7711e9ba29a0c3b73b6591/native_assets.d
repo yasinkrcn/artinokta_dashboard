@@ -1,0 +1,1 @@
+ /Users/yasinkaracan/vscode/artinokta_dashboard/.dart_tool/flutter_build/7e03bbf66a7711e9ba29a0c3b73b6591/native_assets.yaml: 
